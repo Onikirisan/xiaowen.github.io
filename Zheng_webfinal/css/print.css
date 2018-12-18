@@ -1,0 +1,66 @@
+html{
+    background-image:url(../Image/printbackground.jpeg);
+    background-repeat:round;
+}
+
+div img{
+    margin: center;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    width:800px;
+    padding-bottom:50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #c299ff;
+    border:4px dotted #9999ff;
+}
+
+h1{
+    font-size: 12pt;
+    font-family: 'Pacifico';
+    text-align: center;
+    color:white;
+    border-top: 4px dotted #9999ff;
+    border-bottom: 4px dotted #9999ff;
+}
+
+h2{
+    font-size: 24px;
+    font-family: 'Shadows Into Light';
+    color: black;
+}
+
+a{
+    color:white;
+    font-size: 12pt;
+    text-align: center;
+    text-decoration:none;
+    text-transform: uppercase; 
+}
+
+a:hover{
+    color:#000; 
+}
+
+p{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 16pt;
+    font-family: 'Indie Flower';
+    line-height: 14pt;
+}
+
+
+img{
+    margin: center;
+    margin-left: auto;
+    margin-right: auto;
+    border:medium solid #666;
+}

@@ -1,0 +1,66 @@
+html{
+    background-image:url(../Image/animationbackground.jpeg);
+    background-repeat:round;
+}
+
+div img{
+    margin: center;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    width:800px;
+    padding-bottom:50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #ff9999;
+    border:4px dotted #ff99cc;
+}
+
+h1{
+    font-size: 12pt;
+    font-family: 'Pacifico';
+    text-align: center;
+    color:white;
+    border-top: 4px dotted #ff99cc;
+    border-bottom: 4px dotted #ff99cc;
+}
+
+h2{
+    font-size: 24px;
+    font-family: 'Shadows Into Light';
+    color: black;
+}
+
+a{
+    color:white;
+    font-size: 12pt;
+    text-align: center;
+    text-decoration:none;
+    text-transform: uppercase; 
+}
+
+a:hover{
+    color:#ff80aa; 
+}
+
+p{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 16pt;
+    font-family: 'Indie Flower';
+    line-height: 14pt;
+}
+
+
+img{
+    margin: center;
+    margin-left: auto;
+    margin-right: auto;
+    border:medium solid #666;
+}
